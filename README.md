@@ -10,7 +10,6 @@ Employed data preprocessing techniques, including scaling and feature engineerin
 Trained and evaluated multiple machine learning algorithms, including Random Forest and Logistic Regression, to identify the most effective model for fraud detection.
 Implemented cross-validation techniques to assess the model's performance robustness and mitigate overfitting.
 Generated a confusion matrix and calculated evaluation metrics such as accuracy, precision, recall, and F1-score to assess the model's performance.
-Collaborated with stakeholders to interpret the model results, identify areas for improvement, and refine the fraud detection system.
 Technologies Used: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 Outcome:
